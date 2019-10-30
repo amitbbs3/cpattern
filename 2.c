@@ -9,6 +9,7 @@ int main()
 		if(j<=i)
 		printf("%d",j);
 		printf("\n");
+		printf("\n")
 		
 	}
 
